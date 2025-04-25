@@ -15,7 +15,7 @@ public class CuentaBancariaHistorialTest {
     }
 
     /**
-     * Comprobar que el movimiento del ingreso inicial se guarda bien
+     * Comprobar que el movimiento del ingreso inicial se guarda bi
      */
     @Test
     void historial_IngresoInicial() {
